@@ -22,4 +22,3 @@ Este script en Python permite organizar automáticamente los archivos en un dire
 
 ```bash
 git clone https://github.com/BJZR/organizador_de_archivos.git
-cd organizador-archivos
