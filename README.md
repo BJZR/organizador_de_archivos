@@ -21,5 +21,5 @@ Este script en Python permite organizar automáticamente los archivos en un dire
 2. Asegúrate de tener Python 3 instalado en tu sistema.
 
 ```bash
-git clone https://github.com/tu-repositorio/organizador-archivos.git
+git clone https://github.com/BJZR/organizador_de_archivos.git
 cd organizador-archivos
